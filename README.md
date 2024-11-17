@@ -1,5 +1,7 @@
 # Online Machine Learning for Rent Price Prediction in Real Time
 
+![image](https://github.com/user-attachments/assets/5e1ae8a8-288f-4d73-ba02-a2433100b031)
+
 ## Overview
 
 This project focuses on predicting one-month-ahead rental prices in the Buenos Aires real estate market using a dynamic, ensemble-based machine learning approach. It aims to handle concept drift in the data by leveraging a rolling window strategy and ensemble models. The primary models used include XGBoost with robust hyperparameter tuning and ensemble techniques to enhance prediction accuracy.
